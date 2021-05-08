@@ -1,5 +1,5 @@
 # Quick-Calculation-Game-with-Skills
-The course project for IERG3810 Microcontroller and Embedded System Lab, which is a quick calculation game with skills enabled on a Cortex-M3 system.
+The course project for IERG3810 Microcontroller and Embedded System, which is a quick calculation game with skills enabled on a Cortex-M3 system.
 
 ## Features
 <ol>
